@@ -1,17 +1,12 @@
-E-commerce Database Design and Star Schema
-
+E-commerce Database Design and Sales Forecasting
 Overview
-This project shows a professional SQL database architecture for an E-commerce platform. It focuses on data integrity and optimized reporting using Star Schema logic.
+This project demonstrates a complete SQL database architecture for an E-commerce system. It includes a professional Star Schema design and advanced queries for sales forecasting and business reporting.
 
-Technical Details
-DBMS: SQL Server T-SQL
-Key Features:
+Database Architecture
+Implementation and Results
+Key Features
+Star Schema Design: Optimized for analytical queries.
 
-Implementation of Primary and Foreign Keys
+Data Integrity: Full implementation of PK/FK constraints.
 
-Handling complex scenarios like failed payments and cancelled orders
-
-Professional naming conventions and data types
-
-Project Structure
-E-commerce_Schema.sql: Contains the full scripts to build the database
+Reporting: Advanced T-SQL scripts for sales insights.
